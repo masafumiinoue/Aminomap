@@ -1,2 +1,2 @@
 # Aminomap
-Explore the whole-protein-sequences by short segment, create a new amino-map
+Explore the whole-protein-sequences by entire short segments, create a new amino-map.
