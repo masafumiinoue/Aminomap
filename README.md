@@ -14,6 +14,6 @@ The significance of this project is
 Next purpose is 
 1. construct a algorithm to conjugate the short-segments
 2. make a new artificial-protien in a non-utilized sequence space
-3. New score of protein creates by short-segments occurence
+3. New protein-score creates by short-segments occurence
 
 under construction now...
